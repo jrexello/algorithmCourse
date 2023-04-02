@@ -2,7 +2,7 @@ plugins {
     id("java")
 }
 
-group = "es.jrex.algorithm.course"
+group = "es.jrex.courses.algorithms"
 version = "0.1.0"
 
 repositories {
