@@ -1,7 +1,6 @@
 package es.jrex.courses.algorithms.service;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class MergeSort {
 
